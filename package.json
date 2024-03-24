@@ -1,6 +1,7 @@
 {
   "name": "featurevisor-example-nuxt",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
